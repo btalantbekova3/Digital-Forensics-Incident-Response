@@ -1,5 +1,5 @@
 # Digital-Forensics-Incident-Response
-As part of Georgia Tech's CS 3235 Information Security course, we acted as digital forensic investigators analyzing the computer of a fictional suspect named George Burdell.
+As part of Georgia Tech's CS 3235 Information Security course, I acted as digital forensic investigators analyzing the computer of a fictional suspect named George Burdell.
 
 George was suspected of stealing confidential company information and attempting to hide evidence of his activities. Using a forensic disk image, we conducted a full investigation to recover evidence, analyze suspicious activity, and determine whether sufficient evidence existed to support a criminal case.
 
