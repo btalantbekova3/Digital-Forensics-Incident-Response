@@ -10,6 +10,16 @@ A major part of this investigation involved **dead analysis**, a forensic techni
 The suspect had configured the system to wipe itself after multiple failed password attempts. To safely recover evidence, we analyzed a forensic image of the disk rather than interacting with the live system.
 
 Using the Autopsy forensic platform, we examined files, deleted artifacts, browser history, system logs, user activity, and application data. Through this process, we reconstructed timelines and identified artifacts relevant to the investigation.
+<img width="1186" height="645" alt="image" src="https://github.com/user-attachments/assets/1e10d490-0870-4daf-bf53-5a71494c870d" />
+
+
+## Repository Contents
+
+### Final Report
+A summary of the investigation findings and evidence collected during the case. Based on the recovered evidence, the report concludes that George Burdell was responsible for the theft of confidential company information and took steps to conceal his actions.
+
+### Bermet's Investigation Workbook
+A detailed record of my investigation process, including screenshots, notes, evidence collection, forensic analysis, password cracking, SQL injection testing, steganography analysis, reverse engineering, and other techniques used throughout the case.
 
 ## Tools Used
 
