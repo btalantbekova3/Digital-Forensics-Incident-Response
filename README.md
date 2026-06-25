@@ -1,7 +1,7 @@
 # Digital-Forensics-Incident-Response
 As part of Georgia Tech's CS 3235 Information Security course, I acted as digital forensic investigators analyzing the computer of a fictional suspect named George Burdell.
 
-George was suspected of stealing confidential company information and attempting to hide evidence of his activities. Using a forensic disk image, we conducted a full investigation to recover evidence, analyze suspicious activity, and determine whether sufficient evidence existed to support a criminal case.
+George was suspected of stealing confidential company information and attempting to hide evidence of his activities. Using a forensic disk image, we conducted a full investigation to recover evidence, analyze suspicious activity on his computer and social pages, and determine whether sufficient evidence existed to support a criminal case.
 
 ## Dead Analysis
 
@@ -10,7 +10,9 @@ A major part of this investigation involved **dead analysis**, a forensic techni
 The suspect had configured the system to wipe itself after multiple failed password attempts. To safely recover evidence, we analyzed a forensic image of the disk rather than interacting with the live system.
 
 Using the Autopsy forensic platform, we examined files, deleted artifacts, browser history, system logs, user activity, and application data. Through this process, we reconstructed timelines and identified artifacts relevant to the investigation.
-<img width="1186" height="645" alt="image" src="https://github.com/user-attachments/assets/1e10d490-0870-4daf-bf53-5a71494c870d" />
+
+<img width="1196" height="277" alt="image" src="https://github.com/user-attachments/assets/9907dac5-2754-4642-a541-02a0d8bb7840" />
+
 
 
 ## Repository Contents
